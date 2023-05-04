@@ -1,0 +1,11 @@
+[Scheme]
+Name=Kanagawa
+ColorCursor=#7aa89f
+ColorCursorUseDefault=FALSE
+ColorForeground=#dcd7ba
+ColorBackground=#1f1f28
+ColorSelectionBackground=#2d4f67
+ColorSelection=#c8c093
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#7aa89f
+ColorPalette=#090618;#c34043;#76946a;#c0a36e;#7e9cd8;#957fb8;#6a9589;#c8c093;#727169;#e82424;#98bb6c;#e6c384;#7fb4ca;#938aa9;#7aa89f;#dcd7ba;#ffa066;#ff5d62
